@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<content>
+    <factura>
+        <Emisor>Telefónica</Emisor>
+        <Receptor>Scarlett Lawrence</Receptor>
+        <ID_FACTURA>17200130</ID_FACTURA>
+        <fecha_venc>
+            12-12-2020
+        </fecha_venc>
+        <importe>
+                700
+        </importe>
+        <producto>
+        <unidades> 2</unidades>
+        <nombre> Producto A</nombre>
+        <descripcion>
+            "DESCRIPCION a:Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
+            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur 
+            sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+            mollit anim id est laborum"
+        </descripcion>
+        </producto>
+    </factura>
+    <factura>
+        <Emisor>Claro</Emisor>
+        <Receptor>Jainy Hill</Receptor>
+        <ID_FACTURA>17200200</ID_FACTURA>
+        <fecha_venc>
+            13-12-2020
+        </fecha_venc>
+        <importe>
+                300
+        </importe>
+        <producto>
+        <unidades> 2</unidades>
+        <nombre> Producto B</nombre>
+        <descripcion>
+            "DESCRIPCION B: Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
+            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur 
+            sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+            mollit anim id est laborum"
+        </descripcion>
+        </producto>
+    </factura>
+    <factura>
+        <Emisor>Movistar</Emisor>
+        <Receptor>Sylvie Hide</Receptor>
+        <ID_FACTURA>17200129</ID_FACTURA>
+        <fecha_venc>
+            14-12-2020
+        </fecha_venc>
+        <importe>
+                200
+        </importe>
+            <producto>
+            <unidades> 3</unidades>
+            <nombre> Producto C</nombre>
+            <descripcion>
+                "DESCRIPCION C: Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
+            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur 
+            sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+            mollit anim id est laborum"
+            </descripcion>
+        </producto>    
+    </factura>
+    <factura>
+        <Emisor>Entel</Emisor>
+        <ID_FACTURA>17200151</ID_FACTURA>
+        <Receptor>Fiona Daugherty</Receptor>
+        <fecha_venc>
+            15-12-2020
+        </fecha_venc>
+        <importe>
+            400
+        </importe>
+        <producto>
+        <unidades> 4</unidades>
+        <nombre> Producto D</nombre>
+        <descripcion>
+            "DESCRIPCION D: Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
+            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur 
+            sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+            mollit anim id est laborum"
+        </descripcion>
+        </producto> 
+    </factura>
+    <factura>
+        <Emisor>China Mobile</Emisor>
+        <ID_FACTURA>17200161</ID_FACTURA>
+        <Receptor>Martha Erickson</Receptor>
+        <fecha_venc>
+            16-12-2020
+        </fecha_venc>
+        <importe>
+            500
+        </importe>
+        <producto>
+        <unidades> 5</unidades>
+        <nombre> Producto E</nombre>
+        <descripcion>
+            "DESCRIPCION E: Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
+            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur 
+            sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+            mollit anim id est laborum"
+        </descripcion>
+        </producto> 
+    </factura>
+    <factura>
+        <Emisor>Samsung Mobile</Emisor>
+        <ID_FACTURA>17200141</ID_FACTURA>
+        <Receptor>Courtney Collins</Receptor>
+        <fecha_venc>
+            18-12-2020
+        </fecha_venc>
+        <importe>
+            600
+        </importe>
+        <producto>
+        <unidades> 6</unidades>
+        <nombre> Producto F</nombre>
+        <descripcion>
+            "DESCRIPCION F: Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
+            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur 
+            sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+            mollit anim id est laborum"
+        </descripcion>
+        </producto> 
+    </factura>
+    <factura>
+        <Emisor>Alcatel</Emisor>
+        <ID_FACTURA>17200231</ID_FACTURA>
+        <Receptor>Violet Fowler</Receptor>
+        <fecha_venc>
+            19-12-2020
+        </fecha_venc>
+        <importe>
+            1000
+        </importe>
+        <producto>
+        <unidades> 2</unidades>
+        <nombre> Producto G</nombre>
+        <descripcion>
+            "DESCRIPCION G: Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
+            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur 
+            sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+            mollit anim id est laborum"
+        </descripcion>
+        </producto> 
+    </factura>
+    <factura>
+        <Emisor>Entel</Emisor>
+        <ID_FACTURA>17200241</ID_FACTURA>
+        <Receptor>Anya Forbes</Receptor>
+        <fecha_venc>
+            20-12-2020
+        </fecha_venc>
+        <importe>
+            1020
+        </importe>
+        <producto>
+        <unidades> 2</unidades>
+        <nombre> Producto H</nombre>
+        <descripcion>
+            "DESCRIPCION H: Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
+            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur 
+            sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+            mollit anim id est laborum"
+        </descripcion>
+        </producto> 
+    </factura>
+
+</content>

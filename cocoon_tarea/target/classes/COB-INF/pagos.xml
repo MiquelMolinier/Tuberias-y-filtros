@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<content>
+    <pago>
+        <factura>17200129</factura>
+        <fecha>24-03-2020</fecha>
+        <nro_operacion>175</nro_operacion>
+        <RUC>2042324562</RUC>
+        <IMPRESION>1444566782</IMPRESION>
+        <FECHA_IMPRESION>27.03.2020</FECHA_IMPRESION>
+    </pago>
+    <pago>
+        <factura>17200141</factura>
+        <fecha>25-02-2020</fecha>
+        <nro_operacion>176</nro_operacion>
+        <RUC>2042324785</RUC>
+        <IMPRESION>1666566780</IMPRESION>
+        <FECHA_IMPRESION>27.02.2020</FECHA_IMPRESION>
+    </pago>
+    <pago>
+        <factura>17200151</factura>
+        <fecha>22-04-2020</fecha>
+        <nro_operacion>177</nro_operacion>
+        <RUC>2042324985</RUC>
+        <IMPRESION>1888566780</IMPRESION>
+        <FECHA_IMPRESION>23.04.2020</FECHA_IMPRESION>
+    </pago>
+    <pago>
+        <factura>17200161</factura>
+        <fecha>21-04-2020</fecha>
+        <nro_operacion>179</nro_operacion>
+        <RUC>2042324743</RUC>
+        <IMPRESION>1333566780</IMPRESION>
+        <FECHA_IMPRESION>25.04.2020</FECHA_IMPRESION>
+    </pago>
+</content>
